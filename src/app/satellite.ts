@@ -8,7 +8,7 @@ launchDate: string;
 shouldshowWarning(): boolean
 {
 
-    return this.type === 'space debris';
+    return this.type === 'Space Debris';
 }
 
 
